@@ -1,4 +1,4 @@
-Governance Draft (as of September 2023)
+Governance 
 ----
 
 ## Preamble
@@ -8,7 +8,9 @@ Built on the [`three.js`](three) general-purpose 3D library, it enables users to
 iTowns is a **geographic commons**, developed collectively by a diverse community of contributors, comprising independent developers, public organizations, research laboratories and private companies.
 
 The commons is guided by **rules** that safeguard its expansion and the immutability of its open and shared nature.
-This document formalizes the **core values**, **community structure** and **governance** of the [`iTowns`](itowns) project.
+This document formalizes the **core values**, **community structure** and current **governance** of the [`iTowns`](itowns) project.
+
+Please note that we welcome contributions from new stakeholders or other project actors wishing to propose changes to the governance structure. Any proposed changes can be submitted via a pull request or by contacting us at iTowns@ign.fr.
 
 
 ## Definitions
