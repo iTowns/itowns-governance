@@ -1,26 +1,16 @@
-This document enumerates the current stakeholders and members of the different commitees of the iTowns project.
+This document enumerates the current PSC members, core contributors and sponsors of the iTowns project.
+  
+## Project Steering Committee (PSC) members
 
-## Stakeholders
-- [IGN](https://www.ign.fr/)
-- [Ciril Group](https://www.cirilgroup.com/)
+The current members of the PSC are:
+- LAVENANT Antoine
+- IBARRA Maria (IGN representative) 
+- BOUILLAGUET Quentin
+- JAILLOT Vincent
+- LAMEGER Caroline (Ciril Group representative)
 
-## Commitees members
-### Project Steering Committee (PSC)
-The current designated members by the stakeholders are:
-- DAVID Thomas (IGN)
-- GRIVEL Amaël (Ciril Group)
-- MELLIER Guillaume (IGN)
-- PEUZIN Thierry (Ciril Group)
-
-### Product Commitee (PC)
-The current designated members by the PSC are:
-- LAVENANT Antoine (IGN)
-- PICAVET Loïc (Ciril Group)
-The elected members by the Core Developers are:
-- JAILLOT Vincent / BOUILLAGUET Quentin (co-chair)
-
-### Core Developpers (CD)
-The current elected members by the CD are:
+## Core Contributors
+The current Core Contributors are:
 - BOUILLAGUET Quentin
 - CHOQUEUX Gérald
 - GERMERIE-GUIZOUARN Madec
@@ -28,3 +18,8 @@ The current elected members by the CD are:
 - GARNIER Jonathan
 - GULLIENT Anthony
 - TOROMANOFF François
+- DUHEN Raphaël 
+
+## Sponsors
+- [IGN](https://www.ign.fr/)
+- [Ciril Group](https://www.cirilgroup.com/)
