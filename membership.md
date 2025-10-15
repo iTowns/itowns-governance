@@ -15,7 +15,7 @@ The current designated members by the stakeholders are:
 ### Product Commitee (PC)
 The current designated members by the PSC are:
 - LAVENANT Antoine (IGN)
-- PICAVET Loïc (Ciril Group)
+- LAMEGER Caroline (Ciril Group)
 The elected members by the Core Developers are:
 - JAILLOT Vincent / BOUILLAGUET Quentin (co-chair)
 
@@ -25,6 +25,6 @@ The current elected members by the CD are:
 - CHOQUEUX Gérald
 - GERMERIE-GUIZOUARN Madec
 - JAILLOT Vincent
-- GARNIER Jonathan
+- RIPPLINGER Victor
 - GULLIENT Anthony
 - TOROMANOFF François
