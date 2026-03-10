@@ -20,14 +20,14 @@ Contact us at [iTowns@ign.fr](mailto:iTowns@ign.fr).
 ## Values
 
 - **Community Driven**  
-  iTowns is a **commons**, developed collectively by a diverse [community of contributors](https://github.com/iTowns/itowns/blob/master/CONTRIBUTORS.md). Its **open and shared** nature is **immutable**.
+  iTowns is a **commons**, developed collectively by a diverse [ of contributors](https://github.com/iTowns/itowns/blob/master/CONTRIBUTORS.md). Its **open and shared** nature is **immutable**.
 
 - **Licensing**  
   Operates as free software under the MIT or CeCILL-B license.  It permits unrestricted reuse and modifications.
   [Source Code on GitHub](https://github.com/iTowns/itowns)
 
 - **Public Benefit First**  
-  The project serves community interest and broader public good, above specific private goals.  
+  The project serves  interest and broader public good, above specific private goals.  
   See the [Sustainability](#Sustainability) section for more details.
 
 - **Inclusion and Diversity**  
@@ -54,10 +54,9 @@ Contact us at [iTowns@ign.fr](mailto:iTowns@ign.fr).
 
 ## Role definitions
 - A **"User"** encompasses an individual or organization using the iTowns framework.
-- A **"Contributor"** refers to any individual or organization actively involved in improvements to the iTowns project, whether through feature development, documentation additions, bug fixes, suggesting features, or other forms of value. They do not have direct commit access to the main repository. Their contributions are reviewed and merged by core-contributors
+- A **"Contributor"** refers to any individual actively involved in improvements to the iTowns project, whether through feature development, documentation additions, bug fixes, suggesting features, or other forms of value. They do not have direct commit access to the main repository. Their contributions are reviewed and merged by core-contributors
 - A **"Core contributor"** is a trusted contributor with additional responsibilities as described below. Core contributors hold commit rights to the main branch of the project. 
-- A **"Sponsor"** refers to organizations or individuals providing infrastructure, funding, or employee time for the growth, initiatives, and activities of the iTowns project. 
-- The **"Community"** serves as an umbrella term, encompassing users, contributors, sponsors and other players within the iTowns project.
+- The **"Community"** serves as an umbrella term, encompassing users, contributors and other players within the iTowns project.
 
 
 ## Core contributors
@@ -71,7 +70,6 @@ A "Core contributor" is any contributor holding commit rights to the main branch
 - Review and merge PRs from others. 
 - Enforcing the principle of reviewing and cross-validation, prohibiting validators from validating their own contributions or those of their respective organizations.
 - Make consensus-based decisions on technical architecture and ensure its coherence.
-- Participate in governance decisions.
 - Operate continuously, with responsiveness, in a dedicated public discussion channel
 - Address requests in issues
 - Arbitrates requests for Core Contributors rights and their removal.
@@ -86,9 +84,8 @@ New core contributors can be nominated by any existing core contributor. Their s
 
 This role is granted on an individual basis (not as part of an organization). 
 
-It may be rescinded for rule violations or if contributions cease for a one-year period. Revocation requires a double majority vote, excluding the concerned individual.
-Should this person become active again, they will certainly be welcome, but would require a nomination.
-
+It may be rescinded for rule violations or if contributions cease for a 6 months period. Revocation requires a double majority vote of existing core contributors, excluding the concerned individual.
+Should this person become active again, they will certainly be welcome, but would require a nomination. Revocation is automatic if contributions cease for a one year period.
 
 ## Project Steering Committee (PSC)
 The project steering committee is the main governing body for the OpenSource project. It oversees its strategic direction. PSC members represent the interests of users and contributors. They all hold commit rights to the main branch of the project. The PSC operates openly with a consensus-based approach.
@@ -96,8 +93,7 @@ The project steering committee is the main governing body for the OpenSource pro
 ### PSC scope 
 - Ensure that all project rules are respected, be it [values](#Values), governance or technical processes;
 - Arbitrates on significant decisions (e.g., roadmap, release management, governance changes) and resolves disputes.
-- Manages functional roadmap.
-- Arbitrates on the conformity of pull requests with the functional roadmap.
+- Presents functional roadmap.
 - Manages releases.
 - Oversees the project's sustainability in terms of maintainability and technical debt.
 - Arbitrates decisions on technical architecture and ensures its coherence.
@@ -156,6 +152,7 @@ TODO communication channels
 ## Roadmap Update
 - The items foreseen for the next releases are published on a public (non-exhaustive) roadmap and updated regularly by the PSC
 - The project's progress is public and can be tracked at https://github.com/iTowns/itowns/projects?query=is%3Aopen.  TODO update
+
 
 
 
