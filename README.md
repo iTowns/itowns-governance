@@ -62,6 +62,8 @@ Contact us at [iTowns@ign.fr](mailto:iTowns@ign.fr).
 ## Core contributors
 A "Core contributor" is any contributor holding commit rights to the main branch of the project. These core contributors handle technical governance of the project and guarantee its durability and independence.
 
+TODO : vote des contributeurs 
+
 
 ### Core contributors’ scope
 - Ensure the project's sustainability in terms of maintainability and technical debt
@@ -91,7 +93,6 @@ Should this person become active again, they will certainly be welcome, but woul
 ## Project Steering Committee (PSC)
 The project steering committee is the main governing body for the OpenSource project. It oversees its strategic direction. PSC members represent the interests of users and contributors. They all hold commit rights to the main branch of the project. The PSC operates openly with a consensus-based approach.
 
-TODO : poids proportionnel au nb de contributeurs 
 
 ### PSC scope 
 - Ensure that all project rules are respected, be it [values](#Values), governance or technical processes;
@@ -108,6 +109,12 @@ TODO : poids proportionnel au nb de contributeurs
 ### Meetings
 The PSC holds meetings at the request of any PSC member, and every 2 months minimum. Active contributors who are not committee members may be invited to PSC meetings. PSC members are allowed to invite others to meetings based on their expertise or involvement with iTowns. 
 Member’s opinions are documented for transparency and as an objective metric of active participation, and proposed and adopted solutions are specifically reported.
+
+Once a year, a sponsors' meeting will be held to review the year, approve the year's activities, and set guidelines as needed. Participants in this meeting will be designated by the PSC organizations.  
+
+### Decision-making process
+The project operates a policy of lazy consensus, allowing the majority of decisions to be made without resorting to a formal vote. Votes can be required for certain actions though. 
+In the event of a vote, the following rules apply: one vote per organization within the PSC, with the weight of that vote being proportional to the number of its principal contributors. 
 
 ### Joining the PSC
 
