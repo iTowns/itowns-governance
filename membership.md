@@ -7,14 +7,14 @@ This document enumerates the current stakeholders and members of the different c
 ## Commitees members
 ### Project Steering Committee (PSC)
 The current designated members by the stakeholders are:
-- DAVID Thomas (IGN)
+- FERRIER Rémi (IGN)
 - GRIVEL Amaël (Ciril Group)
 - MELLIER Guillaume (IGN)
 - PEUZIN Thierry (Ciril Group)
 
 ### Product Commitee (PC)
 The current designated members by the PSC are:
-- LAVENANT Antoine (IGN)
+- LAVENANT Antoine / IBARRA Maria (IGN)
 - LAMEGER Caroline (Ciril Group)
 The elected members by the Core Developers are:
 - JAILLOT Vincent / BOUILLAGUET Quentin (co-chair)
