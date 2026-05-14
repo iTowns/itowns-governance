@@ -132,6 +132,7 @@ Membership in the PSC is determined as follows:
 - A vote will follow. Only existing PSC committee members may vote on new members. Nominees must receive a majority vote from existing members to be added to the PSC.
 
 A member may be removed from the committee if their core contributors remain inactive for a period of six months, or upon a proposal submitted to the committee and subject to a majority vote by the other members of the PSC. Removal proposal must be motivated and its rationale explained in detail, with references to the project's values and global strategy and purpose.
+In the event of a removal vote, each organization has an equal vote, regardless of the number of contributors it represents.
 
 
 ## Contribution process
