@@ -38,7 +38,7 @@ This can be initiated in two ways:
 To validate the proposal, a functional and technical consensus must be reached.
 
 **Functional consensus**:
-- The PSC validates the proposal through a double majority vote (functional consensus).
+- The PSC validates the proposal through a absolute majority vote (functional consensus).
 - If validated, the PSC can integrate the proposal to its roadmap items, and to the list of items subjects for resource allocations from the Sponsors.
 - If on hold (lack of maturity, interesting but longer-term), the issue remains open, and discussions can continue.
 - Otherwise, the issue is closed.
@@ -49,7 +49,7 @@ Expressions of non-validity of the proposal must be motivated and their rational
 
 **Technical consensus**:
 
-In this issue, technical consensus must be reached by a double majority of core contributors. They evaluate:
+In this issue, technical consensus must be reached by a majority of core contributors. They evaluate:
 - adherence to processes, values and overall project direction,
 - technical coherency with existing code base,
 - technical quality of the chosen solution,
