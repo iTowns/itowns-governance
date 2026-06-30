@@ -62,7 +62,6 @@ Contact us at [iTowns@ign.fr](mailto:iTowns@ign.fr).
 ## Core contributors
 A "Core contributor" is any contributor holding commit rights to the main branch of the project. These core contributors handle technical governance of the project and guarantee its durability and independence.
 
-TODO : vote des contributeurs 
 
 
 ### Core contributors’ scope
@@ -81,13 +80,13 @@ TODO : vote des contributeurs
 
 
 ### Becoming a core contributor
-Achieving status of Core Contributor requires significant contributions to the project, a demonstrated ability to produce high-quality code or other value to the project, and adherence to the guidelines outlined in the code of conduct, CODING.md TODO link and [CONTRIBUTING.md](https://github.com/iTowns/itowns/blob/master/CONTRIBUTING.md) documents.
+Achieving status of Core Contributor requires significant contributions to the project, a demonstrated ability to produce high-quality code or other value to the project, and adherence to the guidelines outlined in the code of conduct (TODO link), [CODING.md](https://github.com/iTowns/itowns/blob/master/CODING.md) and [CONTRIBUTING.md](https://github.com/iTowns/itowns/blob/master/CONTRIBUTING.md) documents.
 
-New core contributors can be nominated by any existing core contributor. Their selection is then subject to a double majority vote within the Core Contributor group.
+New core contributors can be nominated by any existing core contributor. Their selection is then subject to an absolute majority vote within the Core Contributor group.
 
 This role is granted on an individual basis (not as part of an organization). 
 
-It may be rescinded for rule violations or if contributions cease for a 6 months period. Revocation requires a double majority vote of existing core contributors, excluding the concerned individual.
+It may be rescinded for rule violations or if contributions cease for a 6 months period. Revocation requires a absolute majority vote of existing core contributors, excluding the concerned individual.
 Should this person become active again, they will certainly be welcome, but would require a nomination. Revocation is automatic if contributions cease for a one year period.
 
 ## Project Steering Committee (PSC)
@@ -129,9 +128,9 @@ The current members of the PSC are listed in the [membership](https://github.com
 Membership in the PSC is determined as follows: 
 
 - A new PSC member can be invited by the current PSC members. The nominated member may be an individual or an organization. In the latter case, a representative will be appointed by the organization.
-- A vote will follow. Only existing PSC committee members may vote on new members. Nominees must receive a majority vote from existing members to be added to the PSC.
+- A vote will follow. Only existing PSC committee members may vote on new members. Nominees must receive an absolute majority vote from existing members to be added to the PSC.
 
-A member may be removed from the committee if their core contributors remain inactive for a period of six months, or upon a proposal submitted to the committee and subject to a majority vote by the other members of the PSC. Removal proposal must be motivated and its rationale explained in detail, with references to the project's values and global strategy and purpose.
+A member may be removed from the committee if their core contributors remain inactive for a period of six months, or upon a proposal submitted to the committee and subject to an absolute majority vote by the other members of the PSC. Removal proposal must be motivated and its rationale explained in detail, with references to the project's values and global strategy and purpose.
 In the event of a removal vote, each organization has an equal vote, regardless of the number of contributors it represents.
 
 
@@ -139,7 +138,8 @@ In the event of a removal vote, each organization has an equal vote, regardless 
 You can either make a [`contribution`](https://github.com/iTowns/itowns/blob/master/CONTRIBUTING.md) or a proposal. Please read the [`Proposal process`](proposal.md) before.
 
 ## Communication channels 
-[`Discord`](https://discord.com/channels/1024249405634781244/1024258825613737984)
-TODO
- 
+[`Discord channel`](https://discord.com/channels/1024249405634781244/1024258825613737984)
 
+[website](https://www.itowns-project.org)
+
+Contact us at [iTowns@ign.fr](mailto:iTowns@ign.fr).
