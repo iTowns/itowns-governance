@@ -138,7 +138,7 @@ In the event of a removal vote, each organization has an equal vote, regardless 
 You can either make a [`contribution`](https://github.com/iTowns/itowns/blob/master/CONTRIBUTING.md) or a proposal. Please read the [`Proposal process`](proposal.md) before.
 
 ## Communication channels 
-[`Discord channel`](https://discord.com/channels/1024249405634781244/1024258825613737984)
+[Discord channel](https://discord.com/channels/1024249405634781244/1024258825613737984)
 
 [website](https://www.itowns-project.org)
 
