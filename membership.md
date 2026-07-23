@@ -11,11 +11,12 @@ The current members of the PSC are:
 ## Core Contributors
 The current Core Contributors are:
 - BOUILLAGUET Quentin
-- CHOQUEUX Gérald
+- DUBOURG Irenee
+- DUHEN Raphaël
+- ETOURNEAU Kevin
 - GERMERIE-GUIZOUARN Madec
-- JAILLOT Vincent
-- GARNIER Jonathan
 - GULLIENT Anthony
+- JAILLOT Vincent
+- RIPPLINGER Victor
 - TOROMANOFF François
-- DUHEN Raphaël 
 
