@@ -3,9 +3,9 @@
 
 ## Preamble
 
-**iTowns** is a **geographic commons**, developed collectively by a diverse community of contributors, comprising independent developers, public organizations, research laboratories, and private companies.
+The **iTowns** project is developed collectively by a diverse community of contributors, comprising independent developers, public organizations, research laboratories, and private companies.
 
-The commons is governed by **rules** that guarantee its expansion and the immutability of its open, shared nature. This document formalizes the **core values**, **community structure**, and **current governance** of the [`iTowns`]([itowns](https://github.com/iTowns/itowns) project.
+It is governed by **rules** that guarantee its expansion and the immutability of its open, shared nature. This document formalizes the **core values**, **community structure**, and **current governance** of the [`iTowns`]([itowns](https://github.com/iTowns/itowns) project.
 
 We welcome contributions from new stakeholders or other project actors wishing to propose changes to the governance structure.  
 
@@ -13,8 +13,6 @@ Any proposed changes can be submitted via a pull request or through a [proposal]
 
 If you wish to propose changes on different topics, please create a separate PR or issue for each topic.
  
-Contact us at [iTowns@ign.fr](mailto:iTowns@ign.fr).
-
 ---
 
 ## Values
@@ -80,14 +78,15 @@ A "Core contributor" is any contributor holding commit rights to the main branch
 
 
 ### Becoming a core contributor
-Achieving status of Core Contributor requires significant contributions to the project, a demonstrated ability to produce high-quality code or other value to the project, and adherence to the guidelines outlined in the code of conduct (TODO link), [CODING.md](https://github.com/iTowns/itowns/blob/master/CODING.md) and [CONTRIBUTING.md](https://github.com/iTowns/itowns/blob/master/CONTRIBUTING.md) documents.
+Achieving status of Core Contributor requires significant contributions to the project, a demonstrated ability to produce high-quality code or other value to the project, and adherence to the guidelines outlined in the [code of conduct](https://github.com/iTowns/itowns/blob/master/CODE_OF_CONDUCT.md), [CODING.md](https://github.com/iTowns/itowns/blob/master/CODING.md) and [CONTRIBUTING.md](https://github.com/iTowns/itowns/blob/master/CONTRIBUTING.md) documents.
 
 New core contributors can be nominated by any existing core contributor. Their selection is then subject to an absolute majority vote within the Core Contributor group.
 
 This role is granted on an individual basis (not as part of an organization). 
 
-It may be rescinded for rule violations or if contributions cease for a 6 months period. Revocation requires a absolute majority vote of existing core contributors, excluding the concerned individual.
-Should this person become active again, they will certainly be welcome, but would require a nomination. Revocation is automatic if contributions cease for a one year period.
+The role may be revoked due to rule violations or inactivity (6+ months without contributions). This requires an absolute majority vote from active core contributors, excluding the person concerned. Revocation is automatic after 12 consecutive months without contributions.
+
+Should this person become active again, they will certainly be welcome, but would require a nomination. 
 
 ## Project Steering Committee (PSC)
 The project steering committee is the main governing body for the OpenSource project. It oversees its strategic direction. PSC members represent the interests of users and contributors. They all hold commit rights to the main branch of the project. The PSC operates openly with a consensus-based approach.
@@ -130,7 +129,7 @@ Membership in the PSC is determined as follows:
 - A new PSC member can be invited by the current PSC members. The nominated member may be an individual or an organization. In the latter case, a representative will be appointed by the organization.
 - A vote will follow. Only existing PSC committee members may vote on new members. Nominees must receive an absolute majority vote from existing members to be added to the PSC.
 
-A member may be removed from the committee if their core contributors remain inactive for a period of six months, or upon a proposal submitted to the committee and subject to an absolute majority vote by the other members of the PSC. Removal proposal must be motivated and its rationale explained in detail, with references to the project's values and global strategy and purpose.
+A member may be removed from the committee if they haven't had any core contributors for the past 6 months, or upon a proposal submitted to the committee and subject to an absolute majority vote by the other members of the PSC. Removal proposal must be motivated and its rationale explained in detail, with references to the project's values and global strategy and purpose.
 In the event of a removal vote, each organization has an equal vote, regardless of the number of contributors it represents.
 
 
