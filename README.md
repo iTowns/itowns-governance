@@ -5,7 +5,7 @@
 
 The **iTowns** project is developed collectively by a diverse community of contributors, comprising independent developers, public organizations, research laboratories, and private companies.
 
-It is governed by **rules** that guarantee its expansion and the immutability of its open, shared nature. This document formalizes the **core values**, **community structure**, and **current governance** of the [`iTowns`]([itowns](https://github.com/iTowns/itowns) project.
+It is governed by **rules** that guarantee its expansion and the immutability of its open, shared nature. This document formalizes the **core values**, **community structure**, and **current governance** of the [`iTowns`](https://github.com/iTowns/itowns) project.
 
 We welcome contributions from new stakeholders or other project actors wishing to propose changes to the governance structure.  
 
@@ -26,8 +26,7 @@ If you wish to propose changes on different topics, please create a separate PR 
 
 - **Public Benefit First**  
   The project serves  interest and broader public good, above specific private goals.  
-  See the [Sustainability](#Sustainability) section for more details.
-
+ 
 - **Inclusion and Diversity**  
   Contributions are welcomed from a diverse range of sources (private and public sector, researchers, individuals, etc.). This is achieved through the meritocratic recognition of contributors.
 
@@ -47,7 +46,7 @@ If you wish to propose changes on different topics, please create a separate PR 
   Future developments are publicized and discussed openly before implementation.
 
 - **Continuous Improvement**  
-  The project evolves to stay aligned with state of the art developments developments in 3D geospatial data.
+  The project evolves to stay aligned with state of the art developments in 3D geospatial data.
   
 
 ## Role definitions
